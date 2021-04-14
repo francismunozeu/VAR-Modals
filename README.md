@@ -42,5 +42,5 @@ https://docs.google.com/presentation/d/1sYrIoRq9KGL4wBf1KxjmMdsp0us9XsMZzTFbATZD
 
 # VAR Sample Presentation Video
 
-youtube.com/watch?v=_ddp2vd9LyA
+https://youtube.com/watch?v=_ddp2vd9LyA
 
