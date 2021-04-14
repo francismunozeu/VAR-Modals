@@ -4,4 +4,4 @@
 # Sample HTML VAR Site
 
 # Sample Site
-[source](http://newrelic.francismunoz.eu:8013/)
+[VAR Sample Site](http://newrelic.francismunoz.eu:8013/)
