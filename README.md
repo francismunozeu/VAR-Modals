@@ -1,4 +1,4 @@
-# VAR-Modals
+# VAR Modal Repository
 
 Modal Repository
 
