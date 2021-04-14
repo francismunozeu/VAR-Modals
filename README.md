@@ -32,3 +32,11 @@ Index.html
 
 # Sample Site
 [VAR Sample Site](http://newrelic.francismunoz.eu:8013/)
+
+# VAR Template slides
+https://docs.google.com/presentation/d/1oUvjT5LVZxIj-mmpOIp79P83fAfcgvSXPl913GlRYkQ/edit?usp=sharing
+
+# VAR Sample slides
+
+https://docs.google.com/presentation/d/1sYrIoRq9KGL4wBf1KxjmMdsp0us9XsMZzTFbATZDa8A/edit?usp=sharing
+
