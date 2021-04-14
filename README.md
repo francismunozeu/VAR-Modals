@@ -20,12 +20,12 @@ New Relic Synthetycs: modals7 - v2.html
 
 
 
-# Sample Modals 
+# Template Modals 
 
 modal-template.html
 
 
-# Sample HTML VAR Site
+# Sample VAR Site (HTML)
 
 Index.html
 
