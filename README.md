@@ -40,3 +40,7 @@ https://docs.google.com/presentation/d/1oUvjT5LVZxIj-mmpOIp79P83fAfcgvSXPl913GlR
 
 https://docs.google.com/presentation/d/1sYrIoRq9KGL4wBf1KxjmMdsp0us9XsMZzTFbATZDa8A/edit?usp=sharing
 
+# VAR Sample Presentation Video
+
+youtube.com/watch?v=_ddp2vd9LyA
+
