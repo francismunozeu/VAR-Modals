@@ -30,7 +30,7 @@ modal-template.html
 Index.html
 
 
-# Sample Site
+# VAR Sample Site
 [VAR Sample Site](http://newrelic.francismunoz.eu:8013/)
 
 # VAR Template slides
