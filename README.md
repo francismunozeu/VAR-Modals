@@ -17,7 +17,7 @@ How-to: Using HTML editing <br />
 2.Replace text button names, <br />
 3.Add the correcsponding modal to the button <br />
 4.Create link to specific slides in your VAR using this: https://www.labnol.org/internet/office/link-slides-on-slideshare-google-docs/8128/ <br />
-5.(if using a offline copy of the site) modify and link in the modals that points to local folder pr drive <br /> 
+5.(if using a offline copy of the site) modify and link in the modals that points to local folder or drive <br /> 
 
 Modal Repository
 
