@@ -1,3 +1,14 @@
+# Clone customer site
+
+Creates an offline copy of the site (preferred option)
+
+Save Page WE https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof
+
+Creates a online for of the site (alteranive)
+
+Sitemod.io https://chrome.google.com/webstore/detail/sitemodio/efjbaneaebkanjmhengnedpllfdiocin?hl=en
+
+
 # VAR Modal Repository
 
 Modal Repository
