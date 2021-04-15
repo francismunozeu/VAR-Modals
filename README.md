@@ -70,3 +70,9 @@ VAR customer presentation example
 
 https://youtube.com/watch?v=_ddp2vd9LyA
 
+# VAR Sample VAR Questionnare
+
+https://docs.google.com/forms/d/1CDo2W11guR-vDw_qbR5mP0UJwUEbybqisniWQolXoYA/edit
+
+
+
