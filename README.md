@@ -30,6 +30,7 @@ New Relic APM:        modal4 - v2.html <br />
 New Relic Infra:      modal5 - v2.html <br />
 New Relic Browser     modals6 - v2.html <br />
 New Relic Synthetycs: modals7 - v2.html <br />
+New Relic Stimemap:   sitemap.html <br />
 
 # Modal Template 
 
