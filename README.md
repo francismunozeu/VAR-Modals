@@ -31,7 +31,7 @@ New Relic Infra:      modal5 - v2.html <br />
 New Relic Browser     modals6 - v2.html <br />
 New Relic Synthetycs: modals7 - v2.html <br />
 
-# Template Modals 
+# Modal Template 
 
 Modal template, use it to create new one when required
 
