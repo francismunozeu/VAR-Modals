@@ -13,7 +13,7 @@ Sitemod.io https://chrome.google.com/webstore/detail/sitemodio/efjbaneaebkanjmhe
 
 How-to: Using HTML editing <br />
 
-1.Replace button actions in the clone site with the modals with a modal code. <br />
+1.Replace button actions in the cloned site with a modal code. <br />
 2.Replace text button names, <br />
 3.Add the correcsponding modal to the button <br />
 4.Create link to specific slides in your VAR using this: https://www.labnol.org/internet/office/link-slides-on-slideshare-google-docs/8128/ <br />
