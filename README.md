@@ -11,15 +11,16 @@ Sitemod.io https://chrome.google.com/webstore/detail/sitemodio/efjbaneaebkanjmhe
 
 # VAR Modal Repository
 
-How-to: Using HTML editing 
+How-to: Using HTML editing <br />
 
-1.Replace button actions in the clone site with the modals with a modal code.
-2.Replace text button names,
-3.Add the correcsponding modal to the button
-4. Create link to specific slides in your VAR using this: https://www.labnol.org/internet/office/link-slides-on-slideshare-google-docs/8128/
-5.(if using a offline copy of the site) modify and link in the modals that points to local folder pr drive  
+1.Replace button actions in the clone site with the modals with a modal code. <br />
+2.Replace text button names, <br />
+3.Add the correcsponding modal to the button <br />
+4.Create link to specific slides in your VAR using this: https://www.labnol.org/internet/office/link-slides-on-slideshare-google-docs/8128/ <br />
+5.(if using a offline copy of the site) modify and link in the modals that points to local folder pr drive <br /> 
 
 Modal Repository
+
 ++++++++++++++++++++++++++
 
 New Relic Explorer:   modal1 - v2.html 
