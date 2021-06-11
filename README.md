@@ -68,7 +68,7 @@ https://docs.google.com/presentation/d/1sYrIoRq9KGL4wBf1KxjmMdsp0us9XsMZzTFbATZD
 
 VAR customer presentation example
 
-https://youtube.com/watch?v=_ddp2vd9LyA
+https://youtu.be/UVsT3puwp0w
 
 # VAR Sample VAR Questionnare
 
